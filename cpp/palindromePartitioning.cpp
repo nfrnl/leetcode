@@ -1,5 +1,5 @@
 // 131. Palindrome Partitioning
-// https://leetcode.com/problems/complement-of-base-10-integer/
+// https://leetcode.com/problems/palindrome-partitioning/
 
 #include <cassert>
 #include <string>
